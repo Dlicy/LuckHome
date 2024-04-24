@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Yang\Desktop\luckyhome\luckyhome\main.cpp(68,6): warning C4101: “essenceCount”: 未引用的局部变量
+  luckyhome.vcxproj -> C:\Users\Yang\Desktop\luckyhome\x64\Debug\luckyhome.exe
